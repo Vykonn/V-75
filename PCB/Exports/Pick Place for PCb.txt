@@ -5,7 +5,7 @@ C:\Users\Person\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick P
 File Design Information:
 
 Date:       27/07/23
-Time:       10:44
+Time:       15:16
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mil
@@ -112,7 +112,7 @@ D80        1N4148WS                            TopLayer SODFL250X100-2N         
 D79        1N4148WS                            TopLayer SODFL250X100-2N                      25205.000     2600.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D78        1N4148WS                            TopLayer SODFL250X100-2N                      25025.000     3310.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D77        1N4148WS                            TopLayer SODFL250X100-2N                      24835.000     4040.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
-D76        1N4148WS                            TopLayer SODFL250X100-2N                      23940.000     3820.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
+D76        1N4148WS                            TopLayer SODFL250X100-2N                      23970.000     3695.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D75        1N4148WS                            TopLayer SODFL250X100-2N                      24665.000     4740.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D74        1N4148WS                            TopLayer SODFL250X100-2N                      24665.000     5130.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D73        1N4148WS                            TopLayer SODFL250X100-2N                      24665.000     5000.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
@@ -150,14 +150,14 @@ D41        1N4148WS                            TopLayer SODFL250X100-2N         
 D40        1N4148WS                            TopLayer SODFL250X100-2N                      24835.000     4365.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D39        1N4148WS                            TopLayer SODFL250X100-2N                      24835.000     4430.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D38        1N4148WS                            TopLayer SODFL250X100-2N                      24835.000     4495.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
-D37        1N4148WS                            TopLayer SODFL250X100-2N                      23940.000     3885.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
-D36        1N4148WS                            TopLayer SODFL250X100-2N                      23940.000     3950.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
-D35        1N4148WS                            TopLayer SODFL250X100-2N                      23940.000     4015.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
-D34        1N4148WS                            TopLayer SODFL250X100-2N                      23940.000     4080.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
-D33        1N4148WS                            TopLayer SODFL250X100-2N                      23939.724     4145.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
+D37        1N4148WS                            TopLayer SODFL250X100-2N                      23970.000     3760.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
+D36        1N4148WS                            TopLayer SODFL250X100-2N                      23970.000     3825.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
+D35        1N4148WS                            TopLayer SODFL250X100-2N                      23970.000     3890.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
+D34        1N4148WS                            TopLayer SODFL250X100-2N                      23970.000     3955.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
+D33        1N4148WS                            TopLayer SODFL250X100-2N                      23969.724     4020.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D32        1N4148WS                            TopLayer SODFL250X100-2N                      13625.000     1405.000      90       "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D31        1N4148WS                            TopLayer SODFL250X100-2N                      13560.000     1405.000      90       "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
-D30        1N4148WS                            TopLayer SODFL250X100-2N                      23940.000     4210.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
+D30        1N4148WS                            TopLayer SODFL250X100-2N                      23970.000     4085.000      0        "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D29        1N4148WS                            TopLayer SODFL250X100-2N                      13495.000     1405.000      90       "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D27        1N4148WS                            TopLayer SODFL250X100-2N                      13425.000     1405.276      90       "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
 D26        1N4148WS                            TopLayer SODFL250X100-2N                      12530.000     3135.000      90       "Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel"                    
